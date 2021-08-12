@@ -2,7 +2,10 @@
     height: 560px;
     width: 560px;
     display: flex;
-    flex-wrap: wrap;
-    background-color: blue;
+    flex-wrap: wrap;    
+}
+.grid div {
     
+    height: 70px; 
+    width: 70px;
 }
